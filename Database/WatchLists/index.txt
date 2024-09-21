@@ -63,4 +63,8 @@ List 64
 Nifty 50
 Monitor
 NextDayTrade_EMA_Daily_Extended_CrossOver_Long
+HighlyBullishStocks
 BullishStocks
+AboutToBullishStocks
+SideWaysBullishStocks
+BearishStocks
