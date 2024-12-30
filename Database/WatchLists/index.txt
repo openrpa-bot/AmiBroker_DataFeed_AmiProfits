@@ -68,3 +68,11 @@ AboutToBullishStocks
 SideWaysBullishStocks
 BearishStocks
 Monitor
+Filter-3BullishDivergence-4D
+Filter-TrendLineBreakout-4D
+Filter-SwingBottom-BullishTrendLine-4D
+Filter-SwingBottom-Low-BullishTrendLine-4D
+Filter-SwingBottom-Low-TL-BullishTrendLine-4D
+Filter-SwingBottom-Close-TL-BullishTrendLine-4D
+Filter-SwingBottom-Close-BullishTrendLine-4D
+Filter-VSA_NoSupply-4D
