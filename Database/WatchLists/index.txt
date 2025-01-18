@@ -76,3 +76,9 @@ Filter-SwingBottom-Low-TL-BullishTrendLine-4D
 Filter-SwingBottom-Close-TL-BullishTrendLine-4D
 Filter-SwingBottom-Close-BullishTrendLine-4D
 Filter-VSA_NoSupply-4D
+Filter-Below_High_Volume_BULL_TL-4D
+Filter-RMHS_All_Divergence-4D
+Filter-RMHS_Any_Divergence-4D
+Filter-TrendLine_Breakout_Retest-4D
+Filter-10BullishDivergence-4D
+Filter-5BullishDivergence-4D
